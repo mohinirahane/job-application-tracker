@@ -1,0 +1,12 @@
+id,company_name,job_role,location,salary,status,notes
+2,TCS,"Data Analyst",Pune,"3.5 LPA",Selected,
+3,Infosys,"Software Engineer",Bangalore,"4 LPA",Rejected,
+4,Wipro,"Data Analyst",Hyderabad,"3.2 LPA","Interview Scheduled",
+5,Accenture,Analyst,Mumbai,"4.5 LPA",Applied,
+6,Capgemini,Developer,Pune,"4 LPA",Applied,
+7,Cognizant,Analyst,Chennai,"3.8 LPA",Applied,
+8,IBM,"Data Engineer",Bangalore,"6 LPA",Applied,
+9,Deloitte,Consultant,Mumbai,"7 LPA","Interview Scheduled",
+10,HCL,Developer,Noida,"3.5 LPA",Rejected,
+11,Amazon,"Data Analyst",Hyderabad,"10 LPA",Applied,
+12,Flipkart,"usiness Analyst",Bangalore,"8 LPA",Applied,
